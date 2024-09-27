@@ -16,7 +16,7 @@
 - <b>Benchmarking coompanies for Investment Analytics</b>
   - [Using Pivot Tables For Budget Analysis](https://github.com/3456kayy/Pivot-Tables/tree/main)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤝 Connect with me:</h2>
 
 [<img align="left" alt="Kayla Walker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
