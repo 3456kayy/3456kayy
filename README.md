@@ -14,7 +14,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Benchmarking coompanies for Investment Analytics</b>
+- <b>Benchmarking Companies for Investment Analytics</b>
   - [Using Pivot Tables For Budget Analysis](https://github.com/3456kayy/Pivot-Tables/tree/main)
 
 <h2> 🤝 Connect with me:</h2>
