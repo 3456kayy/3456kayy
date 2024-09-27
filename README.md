@@ -1,6 +1,6 @@
 <h1>Hello, I'm Kayla! <br/><a href="https://github.com/3456kayy">Data Analyst Professional</a>, <a href="https://www.linkedin.com/in/kayla-walker-6b7864243/">M.S., B.S., A.S. Post-Bacc. Cert.</a>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>💻 Data Analyst Projects:</h2>
 
 - <b>Excel</b>
   - [Using Pivot Tables For Budget Analysis](https://github.com/3456kayy/Pivot-Tables/tree/main)
