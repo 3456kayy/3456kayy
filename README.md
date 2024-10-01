@@ -13,7 +13,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Linux on Ubuntu</b>
   - [C++](https://github.com/3456kayy/C-plus-plus/tree/main)
-  - Automating Complex Tasks(https://github.com/3456kayy/Bash-Scripting)
+  - [Automating Complex Tasks](https://github.com/3456kayy/Bash-Scripting)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Benchmarking Companies for Investment Analytics</b>
   - [Using Pivot Tables For Budget Analysis](https://github.com/3456kayy/Pivot-Tables/tree/main)
