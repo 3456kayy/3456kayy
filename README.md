@@ -16,7 +16,7 @@
   - [Automating Complex Tasks with Bash](https://github.com/3456kayy/Bash-Scripting)
   - [Encryption and Decryption with Bash](https://github.com/3456kayy/Encryption-Decryption-with-Bash/tree/main)
 - <b>Benchmarking Companies for Investment Analytics</b>
-  - [Using Pivot Tables For Budget Analysis](https://github.com/3456kayy/Pivot-Tables/tree/main)
+  - [Prior Stock Investment Analytics](https://github.com/3456kayy/JPM-vs-BOA/tree/main)
 
 <h2> 🤝 Connect with me:</h2>
 
