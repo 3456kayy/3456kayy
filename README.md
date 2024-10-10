@@ -7,7 +7,7 @@
   - [Long-term Financial Planning Through Retirement Analytics](https://github.com/3456kayy/Retirement-Analytics/tree/main)
   - [Sales and Productivity Analysis](https://github.com/3456kayy/Visualization/tree/main)
 - <b>Python</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Predicting Outcomes by Using Kinear Regression](https://github.com/3456kayy/Heart-Disease-Risk-Prediction-Using-Linear-Regression/tree/main)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
