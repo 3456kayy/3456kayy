@@ -10,7 +10,7 @@
   - [Predicting Outcomes by Using Linear Regression](https://github.com/3456kayy/Heart-Disease-Risk-Prediction-Using-Linear-Regression/tree/main)
   - [Natural Language Processing with LSTM](https://github.com/3456kayy/Sentiment-Analysis-Using-LSTM/tree/main)
   - [Forecasting Movie Nominations Using Various Machine Learning Models](https://github.com/3456kayy/Oscar-Nomination-Prediction/tree/main)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Assessing Revenue Trends](https://github.com/3456kayy/Monthly-Revenue-Analysis)
 - <b>Linux on Ubuntu</b>
   - [C++](https://github.com/3456kayy/C-plus-plus/tree/main)
   - [Automating Complex Tasks with Bash](https://github.com/3456kayy/Bash-Scripting)
